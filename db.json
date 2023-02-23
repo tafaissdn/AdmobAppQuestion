@@ -2,7 +2,7 @@
 	"open": {
 			
 		"ads": "admob",
-		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-		"IntersAdmob": "ca-app-pub-3940256099942544/1033173712",
+		"banner": "ca-app-pub-3940256099942544/6300978111",
+		"inters": "ca-app-pub-3940256099942544/1033173712",
 }
 }
